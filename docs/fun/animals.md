@@ -8,10 +8,10 @@
 
 | Name | Example | Usage |
 | :--- | :--- | :--- |
-| cat | !cat | Gives you a random cat. |
-| dog | !dog | Gives you a random dog. |
-| aww | !aww | Gives you a random cute animal. |
-| catbomb | !catbomb | Gives you 5 links instead of just one, only use this if you LOVE cats! |
-| dogbomb | !dogbomb | ^ but dogs. |
-| awwbomb | !awwbomb | ^ but just cute animals. |
+| blame | !blame | shige |
+| blame | !blame | undead |
+| aww | !aww | go fuck |
+| ban | !ban |Alpha26 |
+| ban | !ban |  Undead^ ^ |
+| whoFC?| !whoFC? | fuy |
 
